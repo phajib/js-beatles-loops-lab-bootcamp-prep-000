@@ -13,7 +13,6 @@ function theBeatlesPlay(musicians, instruments){
 returns an array of string with exclamation points*/
 function johnLennonFacts(facts){
   var i = 0
-  //var array = [facts]
 
   while (i < facts.length){
       facts[i] = facts[i] + '!!!'
